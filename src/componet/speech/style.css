@@ -1,0 +1,16 @@
+
+#box_contaier{
+    width:90%;
+    height:100%;
+    box-shadow:-2px 10px 20px gray;
+    padding:10px 0px;
+    text-transform:capitalize;
+    margin:auto;
+    border-radius:20px;
+}
+
+#micro_icon{
+    color:black;
+    background-color:black;
+    z-index: 9999;
+}
